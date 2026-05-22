@@ -1,5 +1,7 @@
 # Network Intrusion Detection System — ML Project
-### MS Cybersecurity | Machine Learning Pipeline
+### AI Engineering | Machine Learning Pipeline  
+### University: National University of Technology(NUTECH), Pakistan
+
 
 ---
 
